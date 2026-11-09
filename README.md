@@ -1,10 +1,10 @@
 # Baseline Rhapsody 🎵
 
-A Journey Through CSS Evolution — From static effects to dynamic interactions
+A Journey Through CSS Evolution - From static effects to dynamic interactions
 
 ## 📌 Project Status
 
-- Current state: **COMPLETE** — All 45 slides implemented and ready
+- Current state: **COMPLETE** - All 45 slides implemented and ready
 - Implementation progress: 100% (M1 ✅, M2 ✅, M3 ✅, M4 ✅, M5 ✅, M6 ✅, M7 ✅)
 - Single source of truth for planning: see `.github/ROADMAP.md`
 
@@ -18,9 +18,9 @@ This talk is a journey through the transformation of CSS and web APIs, from stat
 
 ## 🧭 Talk Structure (target)
 
-- Introduction (5 min) — What Baseline is and why it matters
-- The Past (5–8 min) — The Dark Ages of CSS (floats, tables, sprites, hacks)
-- The Present (25–30 min) — The Renaissance (modern APIs with Baseline status)
+- Introduction (5 min) - What Baseline is and why it matters
+- The Past (5–8 min) - The Dark Ages of CSS (floats, tables, sprites, hacks)
+- The Present (25–30 min) - The Renaissance (modern APIs with Baseline status)
   - Layout: Flexbox, Grid
   - Cascade: Custom Properties, `@layer`, `@scope`
   - Math: `calc()`, `clamp()`, trig functions
@@ -29,7 +29,7 @@ This talk is a journey through the transformation of CSS and web APIs, from stat
   - Interactivity: Popover API, Dialog
   - Animations: Scroll-driven, View Transitions
   - Color & Typography: color functions, Variable Fonts
-- The Future (10 min) — The Horizon (upcoming features)
+- The Future (10 min) - The Horizon (upcoming features)
 - Baseline Deep Dive (3–5 min)
 - Conclusion (5 min)
 
@@ -97,9 +97,9 @@ baseline-rhapsody/
 
 ## 🎨 Baseline Badge System
 
-- ✅ Widely Available (Green) — Supported 30+ months across major browsers
-- 🟡 Newly Available (Yellow/Orange) — Recently available across major browsers
-- 🔴 Limited Availability (Red) — Not broadly supported yet
+- ✅ Widely Available (Green) - Supported 30+ months across major browsers
+- 🟡 Newly Available (Yellow/Orange) - Recently available across major browsers
+- 🔴 Limited Availability (Red) - Not broadly supported yet
 
 ## 🛠️ Technology Stack
 
@@ -130,7 +130,7 @@ Additional references (limited/experimental features):
 
 ## 📝 License
 
-MIT License — see `LICENSE`.
+MIT License - see `LICENSE`.
 
 ## 👨‍💻 Author
 
